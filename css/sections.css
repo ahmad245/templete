@@ -1,0 +1,34 @@
+.services{
+background-color: var(--color-third);
+}
+.services-title{
+    color:#fff;
+font-size: 2rem;
+font-family: 'caviar_dreamsregular';
+text-transform: uppercase;
+margin: 0 15px;
+}
+i.coffee {
+    background: url(../images/img-sprite.png)no-repeat -3px -7px;
+    width: 50px;
+    height: 60px;
+    display: inline-block;
+}
+i.instant {
+    background: url(../images/img-sprite.png)no-repeat -73px -8px;
+    width: 55px;
+    height: 60px;
+    display: inline-block;
+}
+i.advisor {
+    background: url(../images/img-sprite.png)no-repeat -156px -8px;
+    width: 55px;
+    height: 60px;
+    display: inline-block;
+}
+i.frame {
+    background: url(../images/img-sprite.png)no-repeat -242px -8px;
+    width: 55px;
+    height: 60px;
+    display: inline-block;
+}

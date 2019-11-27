@@ -1,0 +1,25 @@
+:root{
+    --color-primary:rgba(73, 84, 91, 0.84);
+    --color-primary-light:rgba(73, 84, 91, 0.87);
+
+    
+    --color-secondary:#666;
+
+    --color-third:  #00B3FD ;
+          
+
+    --color-header-h1:#4B565D;
+    --color-header-h2:#4B565D;
+
+    --color-portfolio-label: #22B4B8;
+
+    --row-padding:11px;
+    --row-margin:11px;
+
+    --col-padding:11px;
+    --col-margin:11px;
+
+    --conatiner-padding:11px;
+    --conatiner-margin:11px;
+
+}
